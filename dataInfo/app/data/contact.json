@@ -1,0 +1,63 @@
+{
+    "en": 
+    [
+        {
+            "contactName": "Gmail",
+            "contactDesc": "pcarboneroalmellones@gmail.com",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/maillogo.png",
+            "targetUrl":"mailto:pcarboneroalmellones@gmail.com"
+        },
+
+        {
+            "contactName": "GitHub", 
+            "contactDesc": "View my GitHub account",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/gitlogo.png",
+            "targetUrl": "https://github.com/pCarboneroDev?tab=repositories"
+        },
+
+        {
+            "contactName": "LinkedIn", 
+            "contactDesc": "View my LinkedIn profile",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/lnlogo.png",
+            "targetUrl": "https://www.linkedin.com/in/pablo-carbonero-almellones-2b63a422b"
+        },
+
+        {
+            "contactName": "Tlfn number", 
+            "contactDesc": "Call me or send me a message!",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/lnlogo.png",
+            "targetUrl": "tel:+34667291647"
+        }
+    ],
+
+    "es": 
+    [
+        {
+        "contactName": "Gmail",
+        "contactDesc": "pcarboneroalmellones@gmail.com",
+        "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/maillogo.png",
+        "targetUrl":"mailto:pcarboneroalmellones@gmail.com" 
+        },
+
+        {
+            "contactName": "GitHub", 
+            "contactDesc": "Visita mi cuenta de GitHub",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/gitlogo.png",
+            "targetUrl": "https://github.com/pCarboneroDev?tab=repositories"
+        },
+
+        {
+            "contactName": "LinkedIn", 
+            "contactDesc": "Visita mi perfil de LinkedIn",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/lnlogo.png",
+            "targetUrl": "https://www.linkedin.com/in/pablo-carbonero-almellones-2b63a422b"
+        },
+
+        {
+            "contactName": "Tlfn number", 
+            "contactDesc": "Llama o escríbeme un mensaje",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/lnlogo.png",
+            "targetUrl": "tel:+34667291647"
+        }
+    ]
+}

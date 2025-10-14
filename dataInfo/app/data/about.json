@@ -1,0 +1,61 @@
+{
+    "en":
+        {
+            "name": "Pablo Carbonero Almellones",
+            "profilePicture" : "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/profile.png",
+            "role": "Software developer",
+            "shortDescription": "I am a Software Developer specialised in Android and cross-platform app development, with expertise in Flutter, Jetpack Compose, and .NET frameworks. Experienced with both front-end and back-end sides of an application. Additionally, I have extensive knowledge of a wide range of programming languages and technologies, enabling me to work in nearly all areas of software development.",
+            "longDescription" : "Hi! My name is Pablo Carbonero, and I’m a developer with a background in both 3D Animation and Software Development. During my 3D Animation studies, I had the opportunity to work as a programmer on the indie video game Mencía: A Never Was Tale, which was later released on Steam. After that, I started a degree in Cross-Platform App Development, and as part of my internship, I contributed to building a Pokémon TCG Pocket trading app with Flutter. Although I eventually moved on, the project continues to grow and evolve.\nI’m passionate about mobile app development, and my main goal is to grow professionally in this field. At the same time, I’m open to opportunities in fullstack or backend development, where I can apply my problem-solving skills and keep expanding my technical knowledge.\nOutside of coding, I enjoy music and video games. I play the guitar and practice guttural singing. I was even part of a band that got to play live once before disbanding. Creativity and music inspire me and help me stay balanced as a developer.\nFeel free to check out my projects, and don’t hesitate to reach out if you’d like to collaborate!",
+            "languages" : ["Kotlin", "Dart", "C#", "Java", "JavaScript", "TypeScript", "Python", "SQL"],
+            "frameworks" : ["ASP.NET","MAUI", "Flutter", "Jetpack Compose", "Angular"],
+            "other" : ["MVVM", "MVC", "Clean Architecture", "Hexagonal Architecture", "HTML", "XML", "CSS", "Railway Oriented Programming", "Unity"],
+            "skills" : [
+                {
+                    "name": "Design patterns", 
+                    "description": "Aliqua sunt culpa ut exercitation ad enim dolore commodo aliquip reprehenderit."
+                },
+                {
+                    "name": ".NET", 
+                    "description": "Reprehenderit ullamco magna nisi duis dolore quis esse officia amet ut ut."
+                },
+                {
+                    "name": "Mobile apps", 
+                    "description": "Minim mollit fugiat tempor ullamco laborum qui nostrud."
+                },
+                {
+                    "name": "GIT", 
+                    "description": "Adipisicing aliquip occaecat dolor minim mollit."
+                }
+            ]
+        },
+
+    "es":
+        {
+            "name": "Pablo Carbonero Almellones",
+            "profilePicture": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/profile.png",
+            "role": "Desarrollador de Software",
+            "shortDescription": "Soy un Desarrollador de Software especializado en desarrollo de aplicaciones Android y multiplataforma, con experiencia en Flutter, Jetpack Compose y frameworks .NET. Tengo experiencia tanto en el front-end como en el back-end de las aplicaciones. Además, poseo un amplio conocimiento de una amplia gama de lenguajes de programación y tecnologías, lo que me permite trabajar en casi todas las áreas del desarrollo de software.",
+            "longDescription": "¡Hola! Me llamo Pablo Carbonero y soy un desarrollador con formación en Animación 3D y Desarrollo de Software. Durante mis estudios de Animación 3D, tuve la oportunidad de trabajar como programador en el videojuego indie Mencía: A Never Was Tale, que luego fue lanzado en Steam. Después de eso, comencé un grado en Desarrollo de Aplicaciones Multiplataforma, y como parte de mis prácticas, contribuí a construir una aplicación de intercambio de cartas Pokémon TCG Pocket con Flutter. Aunque finalmente me marché, el proyecto sigue creciendo y evolucionando.\nMe apasiona el desarrollo de aplicaciones móviles, y mi principal objetivo es crecer profesionalmente en este campo. Al mismo tiempo, estoy abierto a oportunidades en desarrollo fullstack o backend, donde pueda aplicar mis habilidades para resolver problemas y seguir expandiendo mis conocimientos técnicos.\nFuera de la programación, disfruto de la música y los videojuegos. Toco la guitarra y practico canto gutural. Incluso formé parte de una banda que llegó a tocar en vivo una vez antes de separarse. La creatividad y la música me inspiran y me ayudan a mantener el equilibrio como desarrollador.\n¡No dudes en echar un vistazo a mis proyectos y ponerte en contacto conmigo si te gustaría colaborar!",
+            "languages": ["Kotlin", "Dart", "C#", "Java", "JavaScript", "TypeScript", "Python", "SQL"],
+            "frameworks": ["ASP.NET", "MAUI", "Flutter", "Jetpack Compose", "Angular"],
+            "other": ["MVVM", "MVC", "Clean Architecture", "Hexagonal Architecture", "HTML", "XML", "CSS", "Railway Oriented Programming", "Unity"],
+            "skills": [
+                {
+                    "name": "Patrones de diseño", 
+                    "description": "Aliqua sunt culpa ut exercitation ad enim dolore commodo aliquip reprehenderit."
+                },
+                {
+                    "name": ".NET", 
+                    "description": "Reprehenderit ullamco magna nisi duis dolore quis esse officia amet ut ut."
+                },
+                {
+                    "name": "Aplicaciones móviles", 
+                    "description": "Minim mollit fugiat tempor ullamco laborum qui nostrud."
+                },
+                {
+                    "name": "GIT", 
+                    "description": "Adipisicing aliquip occaecat dolor minim mollit."
+                }
+            ]
+        }
+}

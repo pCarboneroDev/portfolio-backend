@@ -1,0 +1,77 @@
+{
+    "en": 
+    [
+        {
+        "name": "Android Tuner App",
+        "description": "Android tuner app built with Kotlin and Jetpack Compose. App that process audio in real time to indicate the user to loose or tighten the guitar strings. It also allows to save songs with determined tunings in a local database with the possibility to create, load and delete backups in the cloud of user data.",
+        "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+        "projectUrl":"https://github.com/pCarboneroDev/ProyectoFinalDam"
+        },
+
+        {
+            "name": "Flutter Course Projects",
+            "description": "Different small apps from a Flutter course. From simple apps for front-end practice to fully functional real-time chats. Various apps using Firebase, APIs, and databases.",
+            "imageUrl": "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
+            "projectUrl":"https://github.com/pCarboneroDev/practicasFlutter"
+        },
+
+        {
+            "name": "Test",
+            "description": "Adipisicing reprehenderit voluptate excepteur ipsum veniam incididunt amet.",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+            "projectUrl": null
+        },
+
+        {
+            "name": "Test",
+            "description": "Adipisicing reprehenderit voluptate excepteur ipsum veniam incididunt amet.",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+            "projectUrl": null
+        },
+
+        {
+            "name": "Test",
+            "description": "Adipisicing reprehenderit voluptate excepteur ipsum veniam incididunt amet.",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+            "projectUrl": null
+        }
+    ],
+
+    "es": 
+    [
+        {
+        "name": "Afinador de Guitarra para Android",
+        "description": "Android tuner app built with Kotlin and Jetpack Compose. App that process audio in real time to indicate the user to loose or tighten the guitar strings. It also allows to save songs with determined tunings in a local database with the possibility to create, load and delete backups in the cloud of user data.",
+        "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+        "projectUrl":"https://github.com/pCarboneroDev/ProyectoFinalDam"
+        },
+
+        {
+            "name": "Proyectos curso Flutter",
+            "description": "Different small apps from a Flutter course. From simple apps for front-end practice to fully functional real-time chats. Various apps using Firebase, APIs, and databases.",
+            "imageUrl": "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
+            "projectUrl":"https://github.com/pCarboneroDev/practicasFlutter"
+        },
+
+        {
+            "name": "Prueba",
+            "description": "Adipisicing reprehenderit voluptate excepteur ipsum veniam incididunt amet.",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+            "projectUrl": null
+        },
+
+        {
+            "name": "Prueba",
+            "description": "Adipisicing reprehenderit voluptate excepteur ipsum veniam incididunt amet.",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+            "projectUrl": null
+        },
+
+        {
+            "name": "Prueba",
+            "description": "Adipisicing reprehenderit voluptate excepteur ipsum veniam incididunt amet.",
+            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+            "projectUrl": null
+        }
+    ]
+}
