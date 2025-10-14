@@ -2,7 +2,7 @@ from ..dal.files import *
 
 
 
-contactRoute = "dataInfo/app/data/contact.json"
+contactRoute = "back/dataInfo/app/data/contact.json"
 
 def getAllcontacts(lang):
     contactList = []

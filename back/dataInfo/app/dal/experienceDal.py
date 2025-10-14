@@ -1,6 +1,6 @@
 from ..dal.files import *
 
-expRoute = "dataInfo/app/data/experience.json"
+expRoute = "back/dataInfo/app/data/experience.json"
 
 def getAllExperience(lang):
     expList = []

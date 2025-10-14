@@ -3,7 +3,7 @@ from ..dal.files import *
 
 
 
-projectsRoute = "dataInfo/app/data/projects.json"
+projectsRoute = "back/dataInfo/app/data/projects.json"
 
 def getAllProjects(lang):
     projectList = []
