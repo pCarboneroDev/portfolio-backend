@@ -3,10 +3,10 @@ from .projects.routes import projectsBP
 from .experience.routes import experienceBP
 from .contact.routes import contactBP
 from .about.routes import aboutBP
-from dataInfo.app.dal.files import readFile
-from dataInfo.app.dal.projectsDal import *
-from dataInfo.app.dal.experienceDal import *
-from dataInfo.app.dal.contactDal import *
+from back.dataInfo.app.dal.files import readFile
+from back.dataInfo.app.dal.projectsDal import *
+from back.dataInfo.app.dal.experienceDal import *
+from back.dataInfo.app.dal.contactDal import *
 
 app = Flask(__name__)
 
