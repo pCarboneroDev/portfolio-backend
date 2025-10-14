@@ -3,7 +3,7 @@ import sys
 import os
 # sube al directorio raíz
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from dataInfo.app.dal.aboutMeDal import *
+from back.dataInfo.app.dal.aboutMeDal import *
 
 
 aboutBP = Blueprint('about', __name__)
