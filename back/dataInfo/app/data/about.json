@@ -12,19 +12,19 @@
             "skills" : [
                 {
                     "name": "Design patterns", 
-                    "description": "Aliqua sunt culpa ut exercitation ad enim dolore commodo aliquip reprehenderit."
+                    "description": "Specialized in applying architectures and pattern designs such as MVVM, MVC, Clean Architecture and Hexagonal Architecture."
                 },
                 {
                     "name": ".NET", 
-                    "description": "Reprehenderit ullamco magna nisi duis dolore quis esse officia amet ut ut."
+                    "description": "With experience and training working with .NET MAUI and ASP.NET."
                 },
                 {
                     "name": "Mobile apps", 
-                    "description": "Minim mollit fugiat tempor ullamco laborum qui nostrud."
+                    "description": "Specialist in cross-platform apps developer with Flutter, Kolin and .NET."
                 },
                 {
                     "name": "GIT", 
-                    "description": "Adipisicing aliquip occaecat dolor minim mollit."
+                    "description": "Experience with GIT for version control"
                 }
             ]
         },
@@ -42,19 +42,19 @@
             "skills": [
                 {
                     "name": "Patrones de diseño", 
-                    "description": "Aliqua sunt culpa ut exercitation ad enim dolore commodo aliquip reprehenderit."
+                    "description": "Especializado en aplicar arquitecturas y patrones de diseño como MVVM, MVC, Clean Architecture o Hexagonal Architecture"
                 },
                 {
                     "name": ".NET", 
-                    "description": "Reprehenderit ullamco magna nisi duis dolore quis esse officia amet ut ut."
+                    "description": "Experiencia y formación trabajando con .NET MAUI y ASP.NET"
                 },
                 {
-                    "name": "Aplicaciones móviles", 
-                    "description": "Minim mollit fugiat tempor ullamco laborum qui nostrud."
+                    "name": "Aplicaciones multiplataforma", 
+                    "description": "Especialista en desarrollo de aplicaciones multiplataforma con Flutter, .NET y Kotlin"
                 },
                 {
                     "name": "GIT", 
-                    "description": "Adipisicing aliquip occaecat dolor minim mollit."
+                    "description": "Experiencia con GIT para el control de versiones"
                 }
             ]
         }
