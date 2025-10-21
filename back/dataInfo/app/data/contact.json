@@ -25,7 +25,7 @@
         {
             "contactName": "Tlfn number", 
             "contactDesc": "Call me or send me a message!",
-            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/lnlogo.png",
+            "imageUrl": "https://raw.githubusercontent.com/pCarboneroDev/portfolio-backend/refs/heads/main/back/dataInfo/app/data/images/phone_logo.png",
             "targetUrl": "tel:+34667291647"
         }
     ],
@@ -42,7 +42,7 @@
         {
             "contactName": "GitHub", 
             "contactDesc": "Visita mi cuenta de GitHub",
-            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/gitlogo.png",
+            "imageUrl": "https://raw.githubusercontent.com/pCarboneroDev/portfolio-backend/refs/heads/main/back/dataInfo/app/data/images/gitlogo.png",
             "targetUrl": "https://github.com/pCarboneroDev?tab=repositories"
         },
 
@@ -56,7 +56,7 @@
         {
             "contactName": "Teléfono", 
             "contactDesc": "Llama o escríbeme un mensaje",
-            "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/lnlogo.png",
+            "imageUrl": "https://raw.githubusercontent.com/pCarboneroDev/portfolio-backend/refs/heads/main/back/dataInfo/app/data/images/phone_logo.png",
             "targetUrl": "tel:+34667291647"
         }
     ]
