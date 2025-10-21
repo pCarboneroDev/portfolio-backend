@@ -4,7 +4,7 @@
         {
         "name": "Android Tuner App",
         "description": "Android tuner app built with Kotlin and Jetpack Compose. App that process audio in real time to indicate the user to loose or tighten the guitar strings. It also allows to save songs with determined tunings in a local database with the possibility to create, load and delete backups in the cloud of user data.",
-        "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+        "imageUrl": "https://raw.githubusercontent.com/pCarboneroDev/portfolio-backend/refs/heads/main/back/dataInfo/app/data/images/androidTunerPreview.png",
         "projectUrl":"https://github.com/pCarboneroDev/ProyectoFinalDam"
         },
 
@@ -21,7 +21,7 @@
         {
         "name": "Afinador de Guitarra para Android",
         "description": "Afinador de guitarra hecho con Kotlin y Jetpack Compose. Aplicación que analiza audio en tiempo real e indica al usuario si tiene que aflojar o tensar las cuerdas de su instrumento. También permite almacenar canciones en una base de datos local con la posibilidad de crear, cargar y borrar copias de seguridad de los datos en la nube.",
-        "imageUrl": "https://pcarbonerodev.github.io/Carbonero-WebPortfolio/assets/images/androidTunerPreview.png",
+        "imageUrl": "https://raw.githubusercontent.com/pCarboneroDev/portfolio-backend/refs/heads/main/back/dataInfo/app/data/images/androidTunerPreview.png",
         "projectUrl":"https://github.com/pCarboneroDev/ProyectoFinalDam"
         },
 
