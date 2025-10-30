@@ -7,8 +7,10 @@ from back.dataInfo.app.dal.files import readFile
 from back.dataInfo.app.dal.projectsDal import *
 from back.dataInfo.app.dal.experienceDal import *
 from back.dataInfo.app.dal.contactDal import *
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 app.register_blueprint(projectsBP, url_prefix='/projects')
 app.register_blueprint(experienceBP, url_prefix='/experience')
